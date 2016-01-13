@@ -207,7 +207,6 @@
 				TargetAttributes = {
 					0458DF591C4621A100D696DF = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = YT24NVRLGJ;
 					};
 					0458DF721C4621A100D696DF = {
 						CreatedOnToolsVersion = 7.2;
@@ -414,6 +413,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = LIN/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.bjsxt.LIN;
@@ -425,6 +425,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = LIN/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.bjsxt.LIN;

@@ -18,7 +18,15 @@
     [super viewDidLoad];
     
     NSLog(@"你好啊！");
+    NSLog(@"你好啊,世界！");
+    NSLog(@"你好啊！");
+    NSLog(@"你好啊！");
+    NSLog(@"你好啊！");
+    NSLog(@"你好啊！");
+    NSLog(@"你好啊！");
+
     
+
     
     // Do any additional setup after loading the view, typically from a nib.
 }
